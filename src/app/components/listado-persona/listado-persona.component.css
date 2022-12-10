@@ -1,0 +1,35 @@
+table {
+  width: 100%;
+  background-color: blanchedalmond;
+}
+.mat-mdc-form-field {
+  font-size: 25px;
+  width: 100%;
+}
+
+td,
+th {
+  width: 15%;
+}
+
+.search {
+  color: red;
+  cursor: pointer;
+  visibility: visible;
+}
+
+.edit {
+  color: blue;
+  cursor: pointer;
+}
+
+.delete {
+  color: red;
+  cursor: pointer;
+}
+
+
+.Guardar{
+  font-size: 10px;
+  line-height: 28px;
+}

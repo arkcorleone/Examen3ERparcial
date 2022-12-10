@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.title {
+    padding: 30px;
+    background-color: rgb(131, 0, 253);
+    text-align: center;
+    color: rgb(227, 233, 233);
+    border-color: black;
+  }
+
+.title h1{
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-stretch: extra-condensed;
+    
+}
+
+.container {
+  margin: 0 25%;
+
+}
